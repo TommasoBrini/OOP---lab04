@@ -11,6 +11,7 @@ public final class TestComposableRobot {
     private TestComposableRobot() {
     }
 
+    
     public static void main(final String[] args) {
 
         /*
