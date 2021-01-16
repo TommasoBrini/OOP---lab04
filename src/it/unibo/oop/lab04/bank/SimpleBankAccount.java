@@ -12,7 +12,6 @@ public class SimpleBankAccount implements BankAccount {
     public SimpleBankAccount(final int usrID, final double balance) {
         this.usrID = usrID;
         this.balance = balance;
-        this.nTransactions = 0;
     }
 
     protected boolean checkUser(final int id) {
